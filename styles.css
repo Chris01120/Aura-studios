@@ -113,7 +113,7 @@ body{
 }
 
 .Services{
-    height: 120vh;
+    height: 140vh;
     background-color: #F1FCFA;
     display: flex;
     flex-direction: column;
@@ -390,6 +390,13 @@ body{
     width: 60%;
     padding: 12px 0;
   }
+
+  .hero-title h1{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
 }
 
 
