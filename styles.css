@@ -372,10 +372,9 @@ body{
     width: 100px !important;
 } */
 
-  /* Service cards: full width */
-  .service-card {
-    width: 100%;
-  }
+ .box-1{
+    width: 80%;
+ }
 
   /* Contact form: inputs take full width */
   .contact-form {
