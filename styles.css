@@ -343,6 +343,9 @@ body{
   .Service{
     gap: 20px;
   }
+  .Services{
+    margin-top: 60px;
+  }
 
   .Service-1{
     display: flex;
