@@ -296,7 +296,7 @@ body{
 .hero-title-1 h1{
     font-size: 25px;
     font-family: 'Poppins', sans-serif;
-    margin-left: 80vh;
+    margin-left: 40vh;
     padding: 0;
     margin-top: 60px;
 }
@@ -329,7 +329,6 @@ body{
   /* Hero section: smaller text */
   .hero-title-1 h1{
     font-size: 50px;
-    margin-right: 500px;
   }
   .hero-subtitle {
     font-size: 1rem;
