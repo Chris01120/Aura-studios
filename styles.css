@@ -374,6 +374,7 @@ body{
 
  .box-1{
     width: 60% !important;
+    height: 40% !important;
  }
 
   /* Contact form: inputs take full width */
