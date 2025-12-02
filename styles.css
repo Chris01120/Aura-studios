@@ -373,7 +373,7 @@ body{
 } */
 
  .box-1{
-    width: 80%;
+    width: 60% !important;
  }
 
   /* Contact form: inputs take full width */
