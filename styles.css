@@ -329,7 +329,7 @@ body{
 
   /* Hero section: smaller text */
   .hero-title-1 h1{
-    font-size: 30px;
+    font-size: 20px;
     margin: 0 !important;
   }
   .hero-subtitle {
